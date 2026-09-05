@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="SauceDemo Tests">
+    <test name="All tests">
+        <classes>
+            <class name="tests.LoginTests"/>
+            <class name="tests.InventoryTests"/>
+            <class name="tests.CheckoutTests"/>
+
+        </classes>
+    </test>
+</suite>
